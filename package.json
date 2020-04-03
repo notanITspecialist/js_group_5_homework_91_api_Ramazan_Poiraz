@@ -17,6 +17,7 @@
     "express-ws": "^4.0.0",
     "mongoose": "^5.9.7",
     "nanoid": "^3.0.2",
+    "node-gyp": "^6.1.0",
     "node-pre-gyp": "^0.14.0"
   },
   "devDependencies": {
